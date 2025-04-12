@@ -1,4 +1,4 @@
-package dev.personal.planner.models;
+package dev.personal.planner.models.enums;
 
 public enum Status {
     PENDING,
